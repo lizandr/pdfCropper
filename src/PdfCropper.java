@@ -17,6 +17,7 @@ import com.itextpdf.text.pdf.PdfStamper;
  *
  * @author lizandro
  * pulled from GitHub
+ * pulled from GitHub a second time due to mail problems.
  */
 public class PdfCropper {
 
