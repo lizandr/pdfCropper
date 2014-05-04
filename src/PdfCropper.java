@@ -3,19 +3,19 @@
  * and open the template in the editor.
  */
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-
 import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.pdf.PdfDictionary;
 import com.itextpdf.text.pdf.PdfName;
 import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.PdfRectangle;
 import com.itextpdf.text.pdf.PdfStamper;
+import java.io.FileOutputStream;
+import java.io.IOException;
 
 /**
  *
  * @author lizandro
+ * @collaborator jpachito
  * pulled from GitHub
  * pulled from GitHub a second time due to mail problems.
  */
